@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+input {
+  padding: 0.5rem;
+  margin-right: 1rem;
+  width: 200px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+}
+
+.weather {
+  margin-top: 2rem;
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 1rem;
+  border-radius: 10px;
+  background-color: #f0f8ff;
+}
